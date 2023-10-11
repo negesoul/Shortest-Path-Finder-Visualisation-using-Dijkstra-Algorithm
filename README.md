@@ -1,0 +1,2 @@
+# Map-visualization-using-Dijkstra-s-algorithm
+The project can be used to find the shortest path from one point to another point using Dijkstra's algorithm. For instance, it is a good idea to use it to find the nearest fire exit in the building (in case of emergency) or an online map for the taxi.  Try to test it here(use Google Chrome): https://clementmihailescu.github.io/Pathfinding-Visualizer/#
