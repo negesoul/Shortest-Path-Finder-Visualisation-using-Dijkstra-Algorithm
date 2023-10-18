@@ -2,6 +2,8 @@
 Greetings to Pathfinding Visualizer! This app was created out of my deep fascination with pathfinding algorithms, aiming to bring them to life through visual representation. I trust that you'll find as much joy exploring this visual tool as I did crafting it. Access it here: https://clementmihailescu.github.io/Pathfinding-Visualizer/#
 
 # Algorithms used
+This application was developed using these algorithms:
+
 Dijkstra's Algorithm (weighted): The pioneer of pathfinding algorithms; ensures the shortest route.
 
 A Search* (weighted): Arguably the premier pathfinding algorithm; utilizes heuristics to find the shortest path much faster than Dijkstra's Algorithm.
